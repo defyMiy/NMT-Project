@@ -5,6 +5,3 @@ https://towardsdatascience.com/how-to-train-an-mt5-model-for-translation-with-si
 https://simpletransformers.ai/docs/installation/<br />
 https://huggingface.co/models<br />
 https://wandb.ai/home<br />
-
-What is Machine Translation<br />
-https://attapol.github.io/compling/
