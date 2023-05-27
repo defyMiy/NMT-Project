@@ -4,6 +4,6 @@ ReactJS on Front-end <br />
 Firebase on Front-end (Hosting)+ Back-end (firestoe database). 
 <br /> 
 <br />
-React js: https://legacy.reactjs.org/docs/getting-started.html<br />
+ReactJS : https://legacy.reactjs.org/docs/getting-started.html<br />
 Node js : https://nodejs.org/en <br />
 Firebase : https://firebase.google.com/
